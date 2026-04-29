@@ -98,7 +98,7 @@ function StackingCard({ project, index, total }: {
                 />
               </div>
 
-              <p className="font-body text-sm text-gray-400 leading-relaxed mb-6 line-clamp-4">
+              <p className="font-body text-sm text-gray-400 leading-relaxed mb-6 ">
                 {project.longDescription}
               </p>
 
